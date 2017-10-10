@@ -14,6 +14,7 @@ This project derives its name from a small drone (UAV) of the [same name](https:
 * Enter the appropriate Twitter keys you received from your new Twitter app in lines 3-6
 * Enter your hashtag on line 7 (include "-RT" to exclude retweets from being liked and retweeted)
   * example: "#DevFest -RT"
+* From the Apps Script menu, choose "Run" and then "Start_Bot"
 * Enjoy!
 
 ## Contributing
