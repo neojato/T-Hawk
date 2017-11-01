@@ -14,6 +14,11 @@ This project derives its name from a small drone (UAV) of the [same name](https:
 * Enter the appropriate Twitter keys you received from your new Twitter app in lines 3-6
 * Enter your hashtag on line 7 (include "-RT" to exclude retweets from being liked and retweeted)
   * example: "#DevFest -RT"
+* From the Apps Script menu, choose "Resources" and then "Libraries"
+  * In the "Add a library" field, enter the project key: `11dB74uW9VLpgvy1Ax3eBZ8J7as0ZrGtx4BPw7RKK-JQXyAJHBx98pY-7` and click the "Add" button
+  * Change the "Identifier" field to `Twitter`
+  * Change the "Version" to `22`
+  * Click "Save"
 * From the Apps Script menu, choose "Run" and then "Start_Bot"
 * Enjoy!
 
