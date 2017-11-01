@@ -22,6 +22,14 @@ This project derives its name from a small drone (UAV) of the [same name](https:
   * Change the "Version" to `22`
   * Click "Save"
 * From the Apps Script menu, choose "Run" and then "Start_Bot"
+* Create a trigger to continually monitor the hashtag
+  * From the Apps Script menu, choose "Edit" and then "Current project's triggers"
+  * Follow instructions to add a new trigger
+  * Setup your trigger to match the following settings:
+    * devfest_twitterBot
+    * Time-driven
+    * Hour timer
+    * Every hour
 * Enjoy!
 
 ## Contributing
