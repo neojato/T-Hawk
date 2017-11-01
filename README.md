@@ -21,7 +21,6 @@ This project derives its name from a small drone (UAV) of the [same name](https:
   * Change the "Identifier" field to `Twitter`
   * Change the "Version" to `22`
   * Click "Save"
-* From the Apps Script menu, choose "Run" and then "Start_Bot"
 * Create a trigger to continually monitor the hashtag
   * From the Apps Script menu, choose "Edit" and then "Current project's triggers"
   * Follow instructions to add a new trigger
