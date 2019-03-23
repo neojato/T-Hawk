@@ -1,6 +1,6 @@
 # T-Hawk
 
-Simple Twitter bot that auto likes and retweets based on a configured hashtag. Use for a special event or conference (like a DevFest!) to help increase social engagement and awareness.
+Simple Twitter bot that auto likes and retweets based on a configured hashtag. Use for a special event or conference (like a [DevFest](https://devfest.withgoogle.com/)!) to help increase social engagement and awareness.
 
 This project derives its name from a small drone (UAV) of the [same name](https://en.wikipedia.org/wiki/Honeywell_RQ-16_T-Hawk) with no other affiliation or association.
 
@@ -15,7 +15,7 @@ This project derives its name from a small drone (UAV) of the [same name](https:
 * Enter your hashtag on line 7 (include "-RT" to exclude retweets from being liked and retweeted)
   * example: "#DevFest -RT"
 * From the Apps Script menu, choose "Resources" and then "Libraries"
-  * In the "Add a library" field, enter the following project key:
+  * In the "Add a library" field, enter the following project key to load the Twitter library:
     * `11dB74uW9VLpgvy1Ax3eBZ8J7as0ZrGtx4BPw7RKK-JQXyAJHBx98pY-7`
   * Click the "Add" button
   * Change the "Identifier" field to `Twitter`
