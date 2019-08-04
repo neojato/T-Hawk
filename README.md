@@ -7,7 +7,7 @@ This project derives its name from a small drone (UAV) of the [same name](https:
 ## Getting Started
 
 * Log in and create a [Twitter app](https://apps.twitter.com/)
-  * **NOTE:** Use the account you wish to like & retweet with (which most likely isn't your personal one)
+  * **NOTE:** Use the account you wish to like & retweet with (which most likely isn't your personal account)
   * **NOTE:** You do not need a Callback URL for this app
 * Start a new Google Apps Script project by clicking on ["Start Scripting"](https://www.google.com/script/start/)
 * Copy the code from [code.gs](https://github.com/neojato/T-Hawk/blob/master/code.gs) into the new file created for you
@@ -19,7 +19,7 @@ This project derives its name from a small drone (UAV) of the [same name](https:
     * `11dB74uW9VLpgvy1Ax3eBZ8J7as0ZrGtx4BPw7RKK-JQXyAJHBx98pY-7`
   * Click the "Add" button
   * Change the "Identifier" field to `Twitter`
-  * Change the "Version" to `22`
+  * Change the "Version" to `23` (or the most recent)
   * Click "Save"
 * Create a trigger to continually monitor the hashtag
   * From the Apps Script menu, choose "Edit" and then "Current project's triggers"
