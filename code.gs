@@ -42,7 +42,7 @@ function hashtag_twitterBot() {
           since_id: props.getProperty("SINCE_TWITTER_ID")
         });
       
-      if (tweets) {
+      if (tweets.length > 0) {
         props.setProperty("SINCE_TWITTER_ID", tweets[0]);
         
         for (var i = tweets.length - 1; i >= 0; i--) {
